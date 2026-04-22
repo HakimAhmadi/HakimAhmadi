@@ -30,12 +30,6 @@
   <a href="https://linkedin.com/in/abdulhakimahmadi" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
-  <a href="https://fb.com/hakimahmadi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="30" />
-  </a>
-  <a href="https://instagram.com/hakimahmadi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" />
-  </a>
 </p>
 
 ---
